@@ -1,11 +1,11 @@
 // Requires the necessary dependency to SQL
-const mysql = require('mysql2');
+const mysql = require("mysql2");
 // Sets up the connection to mySQL
 const connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  password: 'code',
-  database: 'business_db'
+  host: "localhost",
+  user: "root",
+  password: "<password here>",
+  database: "business_db",
 });
 
 connection.connect(function (err) {
