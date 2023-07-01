@@ -7,3 +7,4 @@ I have left out my password for SQL for security reasons.
 In order to display my tabular data as a table, I used the "console.table" method. This was learned from https://developer.mozilla.org/en-US/docs/Web/API/Console/table.
 
 Much of this application was completed with the help of methods and functions from the Module 12 Mini-Project.
+[Business_org_video.webm](https://github.com/james661/business_organizer/assets/131474339/6590ed01-e392-4aec-90ec-b59fdd17b89f)
