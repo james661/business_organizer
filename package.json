@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/james661/business_organizer#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
     "mysql2": "^3.4.2"
   }
